@@ -1,6 +1,6 @@
 **Credit Card Financial Dashboard**
 
-## **Project Overview
+## Project Overview
 
 This project focuses on analysing credit card customer and transaction data using Power BI and SQL. The dashboard presents financial performance indicators, customer demographics, transaction trends, and credit card usage patterns in an interactive visual format.
 
