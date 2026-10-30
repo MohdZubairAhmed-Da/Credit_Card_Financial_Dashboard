@@ -43,6 +43,8 @@ The project report highlights the following findings from its dataset:
 
 <img width="1138" height="621" alt="Credit_Card_Customer_Report" src="https://github.com/user-attachments/assets/84a2792d-8429-46a7-92d1-9b74a55cd9c5" />
 
+
+
 <img width="1272" height="672" alt="Credit_Card_Transaction_Report" src="https://github.com/user-attachments/assets/75c86276-d833-4333-8f46-d5bdd31f4ed4" />
 
 ## Conclusion
